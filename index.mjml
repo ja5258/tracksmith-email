@@ -1,0 +1,137 @@
+<mjml>
+  <mj-head>
+    <mj-title>The Thaw Collection | Tracksmith</mj-title>
+    <mj-breakpoint width="600px" />
+    <mj-attributes>
+      <mj-all padding="0" />
+    </mj-attributes>
+  </mj-head>
+  <!-- Logo -->
+  <mj-body background-color="#E3B151">
+    <mj-section padding-top="50px" padding-bottom="0" padding-left="20px" padding-right="20px">
+      <mj-column width="100%">
+        <mj-image href="https://www.tracksmith.com/" target=_blank align="center" width="166px" height="80px" src="https://i.imgur.com/lxoS10j.png">
+      </mj-column>
+    </mj-section>
+    <!-- End of Logo -->
+    <!-- Hero Section -->
+    <mj-wrapper padding="0">
+      <mj-section padding-top="40px" padding-bottom="0" padding-left="20px" padding-right="20px">
+        <mj-column width="100%">
+          <mj-image css-class="hero-img-text" href="https://www.tracksmith.com/" target=_blank align="center" padding="20px 9px" src="https://i.imgur.com/blXcoNk.jpg" alt="Hero Title Image" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image align="center" padding="9px" src="https://i.imgur.com/djwM3rZ.jpg" href="https://www.tracksmith.com/" target=_blank alt="Hero Image" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="center" color="#0a1e32" font-family="times new roman" font-size="22px" font-weight="normal" letter-spacing="0" line-height="1.3" padding="20px 18px">
+            When your run involves splashing through slush, you need a little extra protection against the mess. Our Thaw Merino pieces combine the warmth and wicking properties of our Harrier wool blend with an innovative eco finish that keeps you drier, longer – no matter how many puddles you encounter.
+          </mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- End of Hero Section -->
+    <!-- Product Slideshow GIF and CTA Button -->
+    <mj-section padding-left="20px" padding-right="20px">
+      <mj-column width="100%" padding-top="0" padding-bottom="0">
+        <mj-image href="https://www.tracksmith.com/" target=_blank align="center" padding="9px" src="https://i.imgur.com/us5cIMu.gif" alt="Product Slideshow" />
+      </mj-column>
+      <mj-column width="100%" padding="9px 18px">
+        <mj-button href="https://www.tracksmith.com/" target=_blank align="center" font-family="Times New Roman" background-color="#0a1e32" color="#E3B151" font-size="16px" inner-padding="20px 50px" border-radius="0">
+          Shop the Thaw
+        </mj-button>
+      </mj-column>
+    </mj-section>
+    <!-- Product Description Male Runner -->
+    <mj-wrapper padding="0px">
+      <mj-section padding-top="60px" padding-left="20px" padding-right="20px">
+        <mj-column width="50%">
+          <mj-image href="https://www.tracksmith.com/" target=_blank align="center" src="https://i.imgur.com/QsfRxqv.jpg" alt="Male Runner" padding="9px" />
+        </mj-column>
+        <mj-column width="50%" padding-top="10px">
+          <mj-image src="https://i.imgur.com/WfHsfDF.jpg" href="https://www.tracksmith.com/" target=_blank align="center" padding-top="20px" padding-bottom="9px" padding-left="9px" padding-right="9px" alt="Runner Section Title" />
+          <mj-text color="#0a1e32" align="center" font-family="Times New Roman" font-size="20px" font-weight="normal" letter-spacing="0" line-height="1.3" padding="9px 18px">The water and stain repellent HeiQ eco-dry finish repels water and stains, preventing dirt from bonding to the fabric. It's also PFC-free, which helps keep harmful chemicals out of the snow, ice and water.</mj-text>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- End of Product Description Male Runner -->
+    <!-- Product Description Female Runner -->
+    <mj-wrapper padding="0px">
+      <mj-section padding-top="60px" padding-left="20px" padding-right="20px">
+        <mj-column width="50%" padding-bottom="20px">
+          <mj-image src="https://i.imgur.com/Fil3XMm.jpg" href="https://www.tracksmith.com/" target=_blank align="center" padding-top="20px" padding-bottom="9px" padding-left="9px" padding-right="9px" alt="Runner Section Title" />
+          <mj-text color="#0a1e32" align="center" font-family="Times New Roman" font-size="20px" font-weight="normal" letter-spacing="0" line-height="1.3" padding="9px 18px">Merino wool is naturally thermo-regulating, which means it keeps you warm when it’s cold and cool as things heat up. It also dries in a snap. Lanolin in the Merino yarns prevents bacteria from colonizing, preventing the dreaded sweat-stink.</mj-text>
+        </mj-column>
+        <mj-column width="50%">
+          <mj-image href="https://www.tracksmith.com/" target=_blank align="center" src="https://i.imgur.com/B6R9K43.jpg" alt="Female Runner" padding="9px" />
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- End of Product Description Female Runner -->
+    <!-- CTA Section -->
+    <mj-wrapper padding="0">
+      <mj-section padding-top="60px" padding-left="20px" padding-right="20px">
+        <mj-column width="100%">
+          <mj-image href="https://www.tracksmith.com/" target=_blank align="center" padding="20px 9px" src="https://i.imgur.com/sJbThRO.jpg" alt="Thaw Title Image" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-image align="center" padding="9px" src="https://i.imgur.com/ocSEpNE.gif" href="https://www.tracksmith.com/" target=_blank alt="Thaw Image" />
+        </mj-column>
+        <mj-column width="100%">
+          <mj-text align="center" color="#0a1e32" font-family="times new roman" font-size="22px" font-weight="normal" letter-spacing="0" line-height="1.3" padding="20px 18px">
+            In Vermont, they say there are five seasons: spring, summer, fall, winter and mud – when thawing snowmelt turns dirt roads and trails into a soggy mess. While it may not have achieved “season status” everywhere, that wet, mushy period between deep winter and early spring is a fact of life for many runners. We spend it leaping over slush puddles in old trainers that we don’t mind getting really dirty. It’s the physical in-between. It’s the thaw. Inspired by this glorious messy season, we updated our training staples to handle some serious splashes.
+          </mj-text>
+          <mj-button href="https://www.tracksmith.com/" target=_blank align="center" font-family="Times New Roman" background-color="#0a1e32" color="#E3B151" font-size="16px" padding-top="20px" inner-padding="20px 50px" border-radius="0">
+            Shop the Thaw
+          </mj-button>
+        </mj-column>
+      </mj-section>
+    </mj-wrapper>
+    <!-- End of CTA Section -->
+    <!-- Footer Section -->
+    <!-- Footer Banner Image -->
+    <mj-section padding-top="60px" padding-bottom="20px" padding-left="18px" padding-right="18px">
+      <mj-column width="100%" padding-bottom="20px">
+        <mj-image href="https://www.tracksmith.com/" target=_blank align="center" padding="9px" src="https://i.imgur.com/jhU29lx.png" alt="Footer Banner" />
+      </mj-column>
+      <!-- End of Footer Banner Image -->
+      <!-- Footer Contact Info -->
+      <mj-column width="40%" padding-left="25px" padding-top="0" padding-bottom="20px">
+        <mj-text padding-bottom="10px">
+          <a href="mailto:support@tracksmith.com" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">support@tracksmith.com</a>
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          <a href="tel:+17812350027" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">+1 781 235 0027</a>
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          <span><a href="tel:+17812350027" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">M—F 9am—5pm EST</a></span>
+        </mj-text>
+      </mj-column>
+      <!-- Returns and Unsubscribe -->
+      <mj-column width="30%" padding-left="25px" padding-top="0" padding-bottom="20px">
+        <mj-text padding-bottom="10px">
+          <a href="https://www.tracksmith.com/" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">Returns</a>
+        </mj-text>
+        <mj-text padding-bottom="10px">
+          <a href="https://www.tracksmith.com/" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">Unsubscribe</a>
+        </mj-text>
+      </mj-column>
+      <!-- Social Media -->
+      <mj-column width="30%" padding-left="25px" padding-top="0" padding-bottom="20px">
+        <mj-text padding-bottom="10px">
+          <a href="https://www.tracksmith.com/" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">Journal</a>
+        </mj-text>
+        <mj-text padding-bottom="8px">
+          <a href="https://www.tracksmith.com/" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">Facebook</a>
+        </mj-text>
+        <mj-text padding-bottom="8px">
+          <a href="https://www.tracksmith.com/" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">Twitter</a>
+        </mj-text>
+        <mj-text padding-bottom="8px">
+          <a href="https://www.tracksmith.com/" style="color: #FFFFFF; text-decoration: none !important; font-size: 12px; font-family: helvetica; word-wrap: break-word !important;">Instagram</a>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <!-- End of Footer Section -->
+  </mj-body>
+</mjml>
